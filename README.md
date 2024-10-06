@@ -9,8 +9,8 @@ Redux Toolkit: A powerful toolset for efficient Redux development, which simplif
 React-Select: A flexible and beautiful Select Input control for React, used for language selection.
 Axios: A promise-based HTTP client for the browser and Node.js, utilized for making API requests.
 Form Data: Used for creating form data objects to send in requests.
-CSS: For styling the application.
-
+SCSS: For styling the application.
+API:https://rapidapi.com/dickyagustin/api/text-translator2/playground/apiendpoint_d3efc78f-2d7f-45a8-8c5d-41571384d1e8
  <h3>Redux Toolkit and Thunk </h3>
 Redux Toolkit is the official, recommended way to write Redux logic. It provides a set of tools to simplify the store setup, create slices, and handle reducers, making state management more straightforward and efficient.
 Thunk is a middleware that allows you to write action creators that return a function instead of an action. This function can perform asynchronous dispatching of actions, enabling you to handle complex logic, such as API calls, directly in your action creators.
