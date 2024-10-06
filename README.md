@@ -14,3 +14,7 @@ CSS: For styling the application.
  <h3>Redux Toolkit and Thunk </h3>
 Redux Toolkit is the official, recommended way to write Redux logic. It provides a set of tools to simplify the store setup, create slices, and handle reducers, making state management more straightforward and efficient.
 Thunk is a middleware that allows you to write action creators that return a function instead of an action. This function can perform asynchronous dispatching of actions, enabling you to handle complex logic, such as API calls, directly in your action creators.
+
+ <h3>GIF</h3>
+
+<img src="transl.gif" alt="">
